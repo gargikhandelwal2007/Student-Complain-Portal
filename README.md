@@ -46,7 +46,7 @@ Students can register complaints and monitor their progress, while administrator
 ## 🚀 How to run 
 
 Clone the repository and install dependencies:
-Download npm bash 
-Run these on VS Code terminal
-npm install
+Download npm bash <br>
+Run these on VS Code terminal <br>
+npm install <br>
 npm run dev for local host 
