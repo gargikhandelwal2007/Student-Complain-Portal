@@ -4,8 +4,6 @@ A modern web-based **Student Complaint Portal** designed to simplify the process
 
 Students can register complaints and monitor their progress, while administrators can access a dedicated admin dashboard to manage complaints efficiently.
 
-## 🌐 Live Demo
-🔗 **[View Live Demo](LIVE_DEMO_LINK)**
 
 ## ✨ Features
 
